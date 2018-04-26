@@ -91,10 +91,7 @@ Pod::Spec.new do |s|
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
   #
-"source_files": [
-    "*",
-    "*.{h,m}"
-  ],
+s.source_files = "Tools/*.{h,m}"
 
   s.exclude_files = "Classes/Exclude"
 
