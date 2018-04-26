@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "YJKTools"
   s.version      = "1.0.1"
-  s.summary      = "Custom tool"
+  s.summary      = "项目中常用的处理工具"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 * Markdown 格式
                    DESC
 
-  s.homepage     = "http://EXAMPLE/YJKTools"
+  s.homepage     = "https://github.com/969990431/YJKTools.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
